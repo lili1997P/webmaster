@@ -1,0 +1,40 @@
+h1{
+    color: blueviolet;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    text-align: center;
+    
+}
+#verde {
+    text-align: center;
+}
+
+h4{ color: aqua;
+    background-color: brown;
+
+}
+h5{
+    text-decoration: underline;
+    color: floralwhite;
+    background-color: black;
+    width: 200px;
+    
+}
+.dest {
+    font-style: italic;
+    font-size: small;
+}
+ul{
+    color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#lila {
+    border: 4px dashed blueviolet;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 200px;
+    text-align: center;
+}

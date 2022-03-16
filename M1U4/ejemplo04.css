@@ -1,0 +1,37 @@
+h2{
+    color: green;
+    background-color: yellow;
+    text-transform: uppercase ;
+
+}
+p {
+    font-style: italic;
+    
+}
+.destacados{
+    color: red;
+    font-weight: bold;
+}
+
+#azul {
+    background-color: aqua;
+    width: 250px;
+    height: 300px;
+    padding: 20px;
+}
+#verde {
+    background-color: green;
+    width: 250px;
+    height: 200px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border: 2px dashed red;
+
+}
+#azul p{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
