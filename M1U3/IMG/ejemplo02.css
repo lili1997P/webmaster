@@ -1,12 +1,11 @@
 h1{
     color: blueviolet;
-    text-transform: uppercase;
-    font-weight: bold;
-    font-style: italic;
-    font-family: 'Times New Roman', Times, serif;
-    text-decoration: underline;
+    font-family: 'Rubik Wet Paint', cursive;
+ text-decoration: underline;
     text-align: center;
     text-shadow: -11px 18px 2px rgba (186,75,200,0.37);
+    <!-- solid style -->
+    <i class="fa-solid fa-user"></i>
 }
 #verde {
     text-align: center;
