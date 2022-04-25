@@ -1,0 +1,35 @@
+@media (max-width: 800px) {
+    .caja{
+        display: inline-flexbox
+        
+        
+    }
+   .lili {
+    background-color: aqua;
+       border-radius: 0px 0px 0px 0px;
+       -webkit-border-radius: 0px 0px 0px 0px;
+       -moz-border-radius: 0px 0px 0px 0px;
+    
+
+   }
+   .lila{
+
+       background-color: rgb(131, 66, 66);
+
+   }
+
+   .lilo {
+       background-color: rgb(164, 231, 197);
+       height: 200px;
+       rotate: 0deg;
+
+   }
+   .lilu{
+       height: 200px;
+       background-color: bisque;
+       column-count: 1;
+-webkit-column-count: 1;
+-moz-column-count: 1;
+
+   }
+}

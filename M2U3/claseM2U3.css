@@ -1,0 +1,71 @@
+.lili {
+   background-color: rgba(191, 79, 79, 0.513); 
+ text-align: center;
+   border-radius: 168px 168px 168px 168px;
+-webkit-border-radius: 168px 168px 168px 168px;
+-moz-border-radius: 168px 168px 168px 168px;
+border: 32px solid rgba(108,80,255,0.42);
+cursor: pointer;
+
+}
+
+.lila {
+    background-color: lightpink;
+    height: 100px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    
+    animation-name: animacion;
+    animation-duration: 5s;
+   
+
+        }
+        @keyframes animacion {
+            from {
+                font-size: 50%;
+                margin-left: 100%;
+                color: aquamarine;
+                background-color: black;
+            }
+            
+            50% {
+                color: red;
+                font-size: 100%;
+                margin-left: 65%;
+                font-family: Arial, Helvetica, sans-serif;
+            background-color: brown;
+            }
+
+            to {
+                font-size: 100%;
+              margin-left: 20%;
+              color: rgb(178, 236, 178);
+              background-color: rgb(35, 9, 60);
+            }
+        }
+
+
+.lilo {
+    background-color: rgb(240, 183, 240);
+    height: 200px;
+    
+}
+.lilo:hover {
+    transform: rotate(60deg);
+}
+.lilu {
+    background-color: rgba(192, 138, 242, 0.785);
+    height: 200px;
+    column-count: 2;
+-webkit-column-count: 2;
+-moz-column-count: 2;
+column-gap: 50px;
+-webkit-column-gap: 50px;
+-moz-column-gap: 50px;
+column-rule: 7px double #000000;
+-webkit-column-rule: 7px double #000000;
+-moz-column-rule: 7px double #000000;
+}
+
+
